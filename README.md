@@ -1,9 +1,5 @@
 # Fake-News-Detection---Semantic-Classification
 
-
-```markdown
-# Fake News Detection
-
 <div style="text-align: center; padding: 15px; border-radius: 5px; font-size:16px;">
     <p><b>By:</b></p>
     <p>Deepak TM</p>
@@ -138,4 +134,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact Information
 
 For any inquiries regarding the project, please contact the contributors via their GitHub profiles or through the repository issues section.
-```
