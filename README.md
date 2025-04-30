@@ -1,4 +1,4 @@
-# Fake-News-Detection---Semantic-Classification
+# Fake News Detection Semantic Classification
 
 <div style="text-align: center; padding: 15px; border-radius: 5px; font-size:16px;">
     <p><b>By:</b></p>
